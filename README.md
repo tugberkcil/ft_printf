@@ -27,6 +27,6 @@
 > _The project at hand is rather simple. You'll have to redo printf. Hopefully you won't have to worry about being 
 accused of cheating if you utilize it again in a future project. The key thing you'll learn is how to employ variadic arguments._
 
-For detailed information, refer to the [**subject of this project**](https://github.com/appinha/42cursus/tree/master/_PDFs).
+For detailed information, refer to the [**subject of this project**](https://github.com/tugberkcil/42cursus/blob/main/ft_printf.subject.pdf).
 
 	🚀 TLDR: The goal of this project is to provide a library with a condensed version of the printf function.
