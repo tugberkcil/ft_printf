@@ -10,7 +10,7 @@
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tugberkcil/ft_printf?color=blueviolet" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/tugberkcil/ft_printf?color=blueviolet" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/tugberkcil/ft_printf?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tugberkcil/ft_priintf?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tugberkcil/ft_printf?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tugberkcil/ft_printf?color=brightgreen" />
 </p>
 
